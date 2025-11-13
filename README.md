@@ -1,7 +1,6 @@
 # 港澳新导师信息库 (Prof-List for CN Students)
 
 [![LICENSE](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO_NAME.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/graphs/contributors)
 
 这是一个开源项目，旨在为中国学生（尤其是受10043等政策影响的学生）提供一个集中的、可更新的香港、澳门、新加坡等地区的导师信息数据库。
 
@@ -24,7 +23,7 @@
 
 ##  coverage: 覆盖范围 (Currently Included)
 
-目前数据库中主要包含以下地区的院校（欢迎社区帮忙持续添加！）：
+目前数据库中主要包含以下地区的院校：
 
 * **🇭🇰 香港 (Hong Kong):**
     * 香港科技大学 (HKUST / HKUST-GZ)
@@ -34,10 +33,9 @@
 
 * **🇲🇴 澳门 (Macau):**
     * 澳门大学 (UM)
-
-* **🇸🇬 新加坡 (Singapore):**
-    * 新加坡国立大学 (NUS)
-    * *（待添加更多...）*
+*（待添加更多...）*
+* **🇸🇬 新加坡 (Singapore)**
+   
 
 ---
 
