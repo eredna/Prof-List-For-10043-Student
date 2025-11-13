@@ -11,27 +11,41 @@
 4.  **修改/添加内容**：
     * 找到 `data/` 目录下对应的地区和学校文件（如 `data/HK/HKUST.md`）。
     * 如果文件不存在，请创建它。
-    * 按照已有的 Markdown 表格格式添加新行。
+    * **重要**：在文件顶部，请先用二级标题 `##` 标明学院/学系（如 `## 计算机科学系 (CS)`），然后再创建表格。
 5.  **Commit** 你的修改：`git commit -m "feat: Add Prof. XXX from HKUST"`
 6.  **Push** 到你的远程分支：`git push origin feature/add-prof-xxx`
 7.  **创建 Pull Request (PR)**：回到 GitHub 页面，向主仓库的 `main` 分支发起 PR。
 
 ## 数据格式标准
-为保持一致性，请遵守以下格式：
+为保持数据一致性，请在对应的学校文件中，严格遵守以下 Markdown 表格格式：
 
-| 姓名 (Name) | 职称 (Title) | 研究方向 (Research Area) | 个人主页 (Homepage) | 备注 (Notes) |
-| :--- | :--- | :--- | :--- | :--- |
-| [中文名 (英文名)] | [使用标准缩写] | [3-5个关键词, 逗号分隔] | `[Homepage](URL)` | [任何有用的信息] |
+| 老师 (Name) | 大方向 (General Area) | 职称 (Title) | 细化方向 (Specific Area) | 主页 (Homepage) | 备注 (Notes) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [中文名 (英文名)] | [CS / ECE / CMA] | [Professor] | [3-5个关键词, 或简短描述] | `[Homepage](URL)` | [选填: 招生/10043友好?] |
 
-* **姓名**：请尽量提供中文和英文名，如 `郭天佑 (James T. Kwok)`。
-* **职称**：
-    * 助理教授: `AP` (Assistant Professor)
-    * 副教授: `Asso. Prof` (Associate Professor)
-    * 教授: `Prof` (Professor)
-    * 讲座教授: `Chair Prof`
-* **研究方向**：请保持简洁，使用领域内的通用关键词，如 `机器学习, 深度学习, 计算机视觉`。
-* **个人主页**：必须使用 Markdown 链接格式 `[Homepage](URL)`。
-* **备注**：*最重要*。请添加如 `招PhD`, `华人`, `对10043友好`, `AAAI Fellow` 等信息。
+### 字段说明
 
-## 行为准则
-请保持友好和尊重。所有信息请基于事实（如官网主页）。对于“备注”中的主观信息（如友好度），请谨慎添加，最好有来源或佐证。
+* **老师 (Name)**：请尽量提供中文和英文名，如 `王志荣 (Raymond Wong)`。
+* **大方向 (General Area)**：填写老师所属的系或大学科，如 `CS`, `ECE`, `MECH`, `CMA` 等。
+* **职称 (Title)**：
+    * 助理教授: `Assistant Professor`
+    * 副教授: `Associate Professor`
+    * 教授: `Professor`
+    * 讲座教授: `Chair Professor`
+    * （其他职称照实填写即可）
+* **细化方向 (Specific Area)**：填写老师的具体研究兴趣，如 `数据库, 数据挖掘, 大数据`。
+* **主页 (Homepage)**：必须使用 Markdown 链接格式 `[Homepage](URL)`。
+* **备注 (Notes)**：**（选填，但非常重要）**。请添加如 `招PhD`, `华人`, `对10043友好`, `AAAI Fellow`, `刚入职缺学生` 等关键信息。
+
+### 示例 (`data/HK/HKUST.md` 文件内)
+
+```markdown
+# 香港科技大学 (HKUST)
+
+## 计算机科学与工程系 (CSE)
+
+| 老师 (Name) | 大方向 (General Area) | 职称 (Title) | 细化方向 (Specific Area) | 主页 (Homepage) | 备注 (Notes) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 王志荣 (Raymond Wong) | CS | Professor | 数据库, 数据挖掘, 大数据 | `[Homepage](http://www.cse.ust.hk/faculty/raywong/)` | |
+| 杨瓞仁 (Dit-Yan Yeung) | CS | Chair Professor | AI, 机器学习, 深度学习, 推荐系统 | `[Homepage](https://www.cse.ust.hk/~dyyeung/)` | AAAI Fellow |
+| 丁存生 (Cunsheng Ding) | CS | Professor | 密码学, 编码理论 | `[Homepage](http://www.cse.ust.hk/faculty/cding/)` | |
